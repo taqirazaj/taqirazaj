@@ -17,14 +17,15 @@ I'm a passionate Quality Assurance Engineer with over 3 years of experience in *
 
 ---
 
-
 ### 📈 **GitHub Stats & Activity:**
 
 <div align="center">
-   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=taqirazaj&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=taqirazaj&theme=radical" alt="GitHub Streak Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqirazaj&layout=compact&theme=radical" alt="Top Languages" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=taqirazaj&show_icons=true&theme=radical&count_private=true"/>
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=taqirazaj&theme=radical"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taqirazaj&layout=compact&theme=radical"/>
 </div>
+
+
 
 ---
 
@@ -38,7 +39,6 @@ I'm a passionate Quality Assurance Engineer with over 3 years of experience in *
 - **Enhanced Test Automation Coverage:** Improved automated testing frameworks using Cypress, increasing test automation coverage from 40% to 45% and reducing manual testing time by 15%.
 
 ---
-
 
 ### 📫 **Let's Connect:**
 
