@@ -20,7 +20,7 @@ I'm a passionate Quality Assurance Engineer with over 3 years of experience in *
 
 ## 🎥 Video Showcase
 
-I created a video demonstrating my contributions to Cypress at Fiber Mountain. You can watch it below:
+I created a video demonstrating my contributions in Cypress at Fiber Mountain. You can watch it below:
 
 https://github.com/user-attachments/assets/2ca662da-37ef-4ddd-acf8-629186f0510e
 
