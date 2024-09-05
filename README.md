@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/2ca662da-37ef-4ddd-acf8-629186f0510e
 - **Certified Selenium Specialist:** LambdaTest Certification in Selenium.
 - **Over 3 Years of Experience:** Extensive experience in both software and hardware testing.
 - **Developed Automation Frameworks:** Designed and implemented comprehensive test automation frameworks from scratch.
-- **CI/CD Pipeline Integration:** Successfully integrated automated tests into CI/CD pipelines using tools like Jenkins and GitHub Actions.
+- **CI/CD Pipeline Integration:** Successfully integrated automated tests into CI/CD pipelines using tool like GitHub Actions.
 - **Enhanced Test Automation Coverage:** Improved automated testing frameworks using Cypress, increasing test automation coverage from 40% to 45% and reducing manual testing time by 15%.
 
 ---
